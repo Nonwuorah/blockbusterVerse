@@ -1,0 +1,9 @@
+.home-page {
+  padding-top: var(--space-4);
+}
+
+@media (max-width: 768px) {
+  .home-page {
+    padding-top: var(--space-2);
+  }
+}
